@@ -1,0 +1,17 @@
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\EntityFramework.dll
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\EntityFramework.xml
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.Migrations.InitialCreate.resources
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.GenerateResource.Cache
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.Migrations.CreateData.resources
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.Migrations._new.resources
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.Migrations.hhh.resources
+C:\Users\Karen\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.Migrations.hhhh.resources
